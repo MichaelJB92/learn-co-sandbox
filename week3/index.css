@@ -1,0 +1,66 @@
+/*
+
+.class1{
+  background: orange;
+  width: 350px;
+  margin-bottom: 30px;
+  margin: 0 auto;
+}
+
+.class2{
+  background:blue;
+  color: white;
+  width: 350px;
+}
+
+.class3{
+  background: red;
+  color:teal;
+  width: 340px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 340px){
+  .class2{
+    background:purple;
+  }
+}
+
+@media (min-width: 300px) and (max-width:600px){
+  .class1{
+    color:yellow;
+  }
+}
+*/
+
+
+/* mobile first*/
+/*
+.class1{
+  background: orange;
+  width: 75%;
+}
+
+@media (min-width:768px){
+  .class1{
+    background:green;
+  }
+}
+
+@media (min-width:1024px){
+  .class2{
+    background:purple;
+  }
+}
+
+@media (min-width:1400px){
+  .class3{
+    background:red;
+  }
+}*/
+
+.section-class{
+  background: teal;
+  height:400px;
+  margin-bottom: 8px;
+}
