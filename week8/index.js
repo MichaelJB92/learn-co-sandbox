@@ -15,7 +15,7 @@ numberDown.addEventListener('click',() =>{
 
 numberUp.addEventListener('click', () =>{
   
-  const currentNumber = parseInt(number.innerHTML)
+  const currentNumber = number.innerHTML
   const NewNumber = currentNumber + 1
   number.innerHTML = NewNumber
 })
